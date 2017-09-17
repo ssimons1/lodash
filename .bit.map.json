@@ -23,28 +23,6 @@
         "mainFile": "after.js",
         "origin": "AUTHORED"
     },
-    "component/ary": {
-        "files": [
-            {
-                "relativePath": "ary.js",
-                "test": false,
-                "name": "ary.js"
-            }
-        ],
-        "mainFile": "ary.js",
-        "origin": "AUTHORED"
-    },
-    "component/assign-with": {
-        "files": [
-            {
-                "relativePath": "assignWith.js",
-                "test": false,
-                "name": "assignWith.js"
-            }
-        ],
-        "mainFile": "assignWith.js",
-        "origin": "AUTHORED"
-    },
     "component/at": {
         "files": [
             {
@@ -76,17 +54,6 @@
             }
         ],
         "mainFile": "before.js",
-        "origin": "AUTHORED"
-    },
-    "component/bind-key": {
-        "files": [
-            {
-                "relativePath": "bindKey.js",
-                "test": false,
-                "name": "bindKey.js"
-            }
-        ],
-        "mainFile": "bindKey.js",
         "origin": "AUTHORED"
     },
     "component/camel-case": {
@@ -155,50 +122,6 @@
         "mainFile": "clamp.js",
         "origin": "AUTHORED"
     },
-    "component/clone": {
-        "files": [
-            {
-                "relativePath": "clone.js",
-                "test": false,
-                "name": "clone.js"
-            }
-        ],
-        "mainFile": "clone.js",
-        "origin": "AUTHORED"
-    },
-    "component/clone-deep": {
-        "files": [
-            {
-                "relativePath": "cloneDeep.js",
-                "test": false,
-                "name": "cloneDeep.js"
-            }
-        ],
-        "mainFile": "cloneDeep.js",
-        "origin": "AUTHORED"
-    },
-    "component/clone-deep-with": {
-        "files": [
-            {
-                "relativePath": "cloneDeepWith.js",
-                "test": false,
-                "name": "cloneDeepWith.js"
-            }
-        ],
-        "mainFile": "cloneDeepWith.js",
-        "origin": "AUTHORED"
-    },
-    "component/clone-with": {
-        "files": [
-            {
-                "relativePath": "cloneWith.js",
-                "test": false,
-                "name": "cloneWith.js"
-            }
-        ],
-        "mainFile": "cloneWith.js",
-        "origin": "AUTHORED"
-    },
     "component/compact": {
         "files": [
             {
@@ -219,17 +142,6 @@
             }
         ],
         "mainFile": "cond.js",
-        "origin": "AUTHORED"
-    },
-    "component/conforms": {
-        "files": [
-            {
-                "relativePath": "conforms.js",
-                "test": false,
-                "name": "conforms.js"
-            }
-        ],
-        "mainFile": "conforms.js",
         "origin": "AUTHORED"
     },
     "component/conforms-to": {
@@ -265,28 +177,6 @@
         "mainFile": "create.js",
         "origin": "AUTHORED"
     },
-    "component/curry": {
-        "files": [
-            {
-                "relativePath": "curry.js",
-                "test": false,
-                "name": "curry.js"
-            }
-        ],
-        "mainFile": "curry.js",
-        "origin": "AUTHORED"
-    },
-    "component/curry-right": {
-        "files": [
-            {
-                "relativePath": "curryRight.js",
-                "test": false,
-                "name": "curryRight.js"
-            }
-        ],
-        "mainFile": "curryRight.js",
-        "origin": "AUTHORED"
-    },
     "component/debounce": {
         "files": [
             {
@@ -318,17 +208,6 @@
             }
         ],
         "mainFile": "defaults.js",
-        "origin": "AUTHORED"
-    },
-    "component/defaults-deep": {
-        "files": [
-            {
-                "relativePath": "defaultsDeep.js",
-                "test": false,
-                "name": "defaultsDeep.js"
-            }
-        ],
-        "mainFile": "defaultsDeep.js",
         "origin": "AUTHORED"
     },
     "component/default-to": {
@@ -573,17 +452,6 @@
         "mainFile": "filterObject.js",
         "origin": "AUTHORED"
     },
-    "component/find": {
-        "files": [
-            {
-                "relativePath": "find.js",
-                "test": false,
-                "name": "find.js"
-            }
-        ],
-        "mainFile": "find.js",
-        "origin": "AUTHORED"
-    },
     "component/find-key": {
         "files": [
             {
@@ -593,17 +461,6 @@
             }
         ],
         "mainFile": "findKey.js",
-        "origin": "AUTHORED"
-    },
-    "component/find-last": {
-        "files": [
-            {
-                "relativePath": "findLast.js",
-                "test": false,
-                "name": "findLast.js"
-            }
-        ],
-        "mainFile": "findLast.js",
         "origin": "AUTHORED"
     },
     "component/find-last-index": {
@@ -1508,28 +1365,6 @@
         "mainFile": "mapValue.js",
         "origin": "AUTHORED"
     },
-    "component/matches": {
-        "files": [
-            {
-                "relativePath": "matches.js",
-                "test": false,
-                "name": "matches.js"
-            }
-        ],
-        "mainFile": "matches.js",
-        "origin": "AUTHORED"
-    },
-    "component/matches-property": {
-        "files": [
-            {
-                "relativePath": "matchesProperty.js",
-                "test": false,
-                "name": "matchesProperty.js"
-            }
-        ],
-        "mainFile": "matchesProperty.js",
-        "origin": "AUTHORED"
-    },
     "component/max-by": {
         "files": [
             {
@@ -1572,28 +1407,6 @@
             }
         ],
         "mainFile": "memoize.js",
-        "origin": "AUTHORED"
-    },
-    "component/merge": {
-        "files": [
-            {
-                "relativePath": "merge.js",
-                "test": false,
-                "name": "merge.js"
-            }
-        ],
-        "mainFile": "merge.js",
-        "origin": "AUTHORED"
-    },
-    "component/merge-with": {
-        "files": [
-            {
-                "relativePath": "mergeWith.js",
-                "test": false,
-                "name": "mergeWith.js"
-            }
-        ],
-        "mainFile": "mergeWith.js",
         "origin": "AUTHORED"
     },
     "component/method": {
@@ -1682,17 +1495,6 @@
             }
         ],
         "mainFile": "once.js",
-        "origin": "AUTHORED"
-    },
-    "component/order-by": {
-        "files": [
-            {
-                "relativePath": "orderBy.js",
-                "test": false,
-                "name": "orderBy.js"
-            }
-        ],
-        "mainFile": "orderBy.js",
         "origin": "AUTHORED"
     },
     "component/over": {
@@ -2333,17 +2135,6 @@
         "mainFile": "takeWhile.js",
         "origin": "AUTHORED"
     },
-    "component/template": {
-        "files": [
-            {
-                "relativePath": "template.js",
-                "test": false,
-                "name": "template.js"
-            }
-        ],
-        "mainFile": "template.js",
-        "origin": "AUTHORED"
-    },
     "component/template-settings": {
         "files": [
             {
@@ -2803,7 +2594,1525 @@
                 "name": "zipWith.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "zipWith.js"
+        "mainFile": "zipWith.js",
+        "origin": "AUTHORED"
+    },
+    "internal/hash": {
+        "files": [
+            {
+                "relativePath": ".internal/Hash.js",
+                "test": false,
+                "name": "Hash.js"
+            }
+        ],
+        "mainFile": ".internal/Hash.js",
+        "origin": "AUTHORED"
+    },
+    "internal/list-cache": {
+        "files": [
+            {
+                "relativePath": ".internal/ListCache.js",
+                "test": false,
+                "name": "ListCache.js"
+            }
+        ],
+        "mainFile": ".internal/ListCache.js",
+        "origin": "AUTHORED"
+    },
+    "internal/map-cache": {
+        "files": [
+            {
+                "relativePath": ".internal/MapCache.js",
+                "test": false,
+                "name": "MapCache.js"
+            }
+        ],
+        "mainFile": ".internal/MapCache.js",
+        "origin": "AUTHORED"
+    },
+    "internal/set-cache": {
+        "files": [
+            {
+                "relativePath": ".internal/SetCache.js",
+                "test": false,
+                "name": "SetCache.js"
+            }
+        ],
+        "mainFile": ".internal/SetCache.js",
+        "origin": "AUTHORED"
+    },
+    "internal/stack": {
+        "files": [
+            {
+                "relativePath": ".internal/Stack.js",
+                "test": false,
+                "name": "Stack.js"
+            }
+        ],
+        "mainFile": ".internal/Stack.js",
+        "origin": "AUTHORED"
+    },
+    "internal/add-map-entry": {
+        "files": [
+            {
+                "relativePath": ".internal/addMapEntry.js",
+                "test": false,
+                "name": "addMapEntry.js"
+            }
+        ],
+        "mainFile": ".internal/addMapEntry.js",
+        "origin": "AUTHORED"
+    },
+    "internal/add-set-entry": {
+        "files": [
+            {
+                "relativePath": ".internal/addSetEntry.js",
+                "test": false,
+                "name": "addSetEntry.js"
+            }
+        ],
+        "mainFile": ".internal/addSetEntry.js",
+        "origin": "AUTHORED"
+    },
+    "internal/array-each": {
+        "files": [
+            {
+                "relativePath": ".internal/arrayEach.js",
+                "test": false,
+                "name": "arrayEach.js"
+            }
+        ],
+        "mainFile": ".internal/arrayEach.js",
+        "origin": "AUTHORED"
+    },
+    "internal/array-each-right": {
+        "files": [
+            {
+                "relativePath": ".internal/arrayEachRight.js",
+                "test": false,
+                "name": "arrayEachRight.js"
+            }
+        ],
+        "mainFile": ".internal/arrayEachRight.js",
+        "origin": "AUTHORED"
+    },
+    "internal/array-includes": {
+        "files": [
+            {
+                "relativePath": ".internal/arrayIncludes.js",
+                "test": false,
+                "name": "arrayIncludes.js"
+            }
+        ],
+        "mainFile": ".internal/arrayIncludes.js",
+        "origin": "AUTHORED"
+    },
+    "internal/array-includes-with": {
+        "files": [
+            {
+                "relativePath": ".internal/arrayIncludesWith.js",
+                "test": false,
+                "name": "arrayIncludesWith.js"
+            }
+        ],
+        "mainFile": ".internal/arrayIncludesWith.js",
+        "origin": "AUTHORED"
+    },
+    "internal/array-like-keys": {
+        "files": [
+            {
+                "relativePath": ".internal/arrayLikeKeys.js",
+                "test": false,
+                "name": "arrayLikeKeys.js"
+            }
+        ],
+        "mainFile": ".internal/arrayLikeKeys.js",
+        "origin": "AUTHORED"
+    },
+    "internal/array-reduce": {
+        "files": [
+            {
+                "relativePath": ".internal/arrayReduce.js",
+                "test": false,
+                "name": "arrayReduce.js"
+            }
+        ],
+        "mainFile": ".internal/arrayReduce.js",
+        "origin": "AUTHORED"
+    },
+    "internal/array-reduce-right": {
+        "files": [
+            {
+                "relativePath": ".internal/arrayReduceRight.js",
+                "test": false,
+                "name": "arrayReduceRight.js"
+            }
+        ],
+        "mainFile": ".internal/arrayReduceRight.js",
+        "origin": "AUTHORED"
+    },
+    "internal/ascii-size": {
+        "files": [
+            {
+                "relativePath": ".internal/asciiSize.js",
+                "test": false,
+                "name": "asciiSize.js"
+            }
+        ],
+        "mainFile": ".internal/asciiSize.js",
+        "origin": "AUTHORED"
+    },
+    "internal/ascii-to-array": {
+        "files": [
+            {
+                "relativePath": ".internal/asciiToArray.js",
+                "test": false,
+                "name": "asciiToArray.js"
+            }
+        ],
+        "mainFile": ".internal/asciiToArray.js",
+        "origin": "AUTHORED"
+    },
+    "internal/assign-merge-value": {
+        "files": [
+            {
+                "relativePath": ".internal/assignMergeValue.js",
+                "test": false,
+                "name": "assignMergeValue.js"
+            }
+        ],
+        "mainFile": ".internal/assignMergeValue.js",
+        "origin": "AUTHORED"
+    },
+    "internal/assign-value": {
+        "files": [
+            {
+                "relativePath": ".internal/assignValue.js",
+                "test": false,
+                "name": "assignValue.js"
+            }
+        ],
+        "mainFile": ".internal/assignValue.js",
+        "origin": "AUTHORED"
+    },
+    "internal/assoc-index-of": {
+        "files": [
+            {
+                "relativePath": ".internal/assocIndexOf.js",
+                "test": false,
+                "name": "assocIndexOf.js"
+            }
+        ],
+        "mainFile": ".internal/assocIndexOf.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-assign-value": {
+        "files": [
+            {
+                "relativePath": ".internal/baseAssignValue.js",
+                "test": false,
+                "name": "baseAssignValue.js"
+            }
+        ],
+        "mainFile": ".internal/baseAssignValue.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-at": {
+        "files": [
+            {
+                "relativePath": ".internal/baseAt.js",
+                "test": false,
+                "name": "baseAt.js"
+            }
+        ],
+        "mainFile": ".internal/baseAt.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-conforms": {
+        "files": [
+            {
+                "relativePath": ".internal/baseConforms.js",
+                "test": false,
+                "name": "baseConforms.js"
+            }
+        ],
+        "mainFile": ".internal/baseConforms.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-conforms-to": {
+        "files": [
+            {
+                "relativePath": ".internal/baseConformsTo.js",
+                "test": false,
+                "name": "baseConformsTo.js"
+            }
+        ],
+        "mainFile": ".internal/baseConformsTo.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-difference": {
+        "files": [
+            {
+                "relativePath": ".internal/baseDifference.js",
+                "test": false,
+                "name": "baseDifference.js"
+            }
+        ],
+        "mainFile": ".internal/baseDifference.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-each": {
+        "files": [
+            {
+                "relativePath": ".internal/baseEach.js",
+                "test": false,
+                "name": "baseEach.js"
+            }
+        ],
+        "mainFile": ".internal/baseEach.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-each-right": {
+        "files": [
+            {
+                "relativePath": ".internal/baseEachRight.js",
+                "test": false,
+                "name": "baseEachRight.js"
+            }
+        ],
+        "mainFile": ".internal/baseEachRight.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-find-index": {
+        "files": [
+            {
+                "relativePath": ".internal/baseFindIndex.js",
+                "test": false,
+                "name": "baseFindIndex.js"
+            }
+        ],
+        "mainFile": ".internal/baseFindIndex.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-find-key": {
+        "files": [
+            {
+                "relativePath": ".internal/baseFindKey.js",
+                "test": false,
+                "name": "baseFindKey.js"
+            }
+        ],
+        "mainFile": ".internal/baseFindKey.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-flatten": {
+        "files": [
+            {
+                "relativePath": ".internal/baseFlatten.js",
+                "test": false,
+                "name": "baseFlatten.js"
+            }
+        ],
+        "mainFile": ".internal/baseFlatten.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-for": {
+        "files": [
+            {
+                "relativePath": ".internal/baseFor.js",
+                "test": false,
+                "name": "baseFor.js"
+            }
+        ],
+        "mainFile": ".internal/baseFor.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-for-own": {
+        "files": [
+            {
+                "relativePath": ".internal/baseForOwn.js",
+                "test": false,
+                "name": "baseForOwn.js"
+            }
+        ],
+        "mainFile": ".internal/baseForOwn.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-for-own-right": {
+        "files": [
+            {
+                "relativePath": ".internal/baseForOwnRight.js",
+                "test": false,
+                "name": "baseForOwnRight.js"
+            }
+        ],
+        "mainFile": ".internal/baseForOwnRight.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-for-right": {
+        "files": [
+            {
+                "relativePath": ".internal/baseForRight.js",
+                "test": false,
+                "name": "baseForRight.js"
+            }
+        ],
+        "mainFile": ".internal/baseForRight.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-get": {
+        "files": [
+            {
+                "relativePath": ".internal/baseGet.js",
+                "test": false,
+                "name": "baseGet.js"
+            }
+        ],
+        "mainFile": ".internal/baseGet.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-get-tag": {
+        "files": [
+            {
+                "relativePath": ".internal/baseGetTag.js",
+                "test": false,
+                "name": "baseGetTag.js"
+            }
+        ],
+        "mainFile": ".internal/baseGetTag.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-in-range": {
+        "files": [
+            {
+                "relativePath": ".internal/baseInRange.js",
+                "test": false,
+                "name": "baseInRange.js"
+            }
+        ],
+        "mainFile": ".internal/baseInRange.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-index-of": {
+        "files": [
+            {
+                "relativePath": ".internal/baseIndexOf.js",
+                "test": false,
+                "name": "baseIndexOf.js"
+            }
+        ],
+        "mainFile": ".internal/baseIndexOf.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-index-of-with": {
+        "files": [
+            {
+                "relativePath": ".internal/baseIndexOfWith.js",
+                "test": false,
+                "name": "baseIndexOfWith.js"
+            }
+        ],
+        "mainFile": ".internal/baseIndexOfWith.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-intersection": {
+        "files": [
+            {
+                "relativePath": ".internal/baseIntersection.js",
+                "test": false,
+                "name": "baseIntersection.js"
+            }
+        ],
+        "mainFile": ".internal/baseIntersection.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-is-equal": {
+        "files": [
+            {
+                "relativePath": ".internal/baseIsEqual.js",
+                "test": false,
+                "name": "baseIsEqual.js"
+            }
+        ],
+        "mainFile": ".internal/baseIsEqual.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-is-equal-deep": {
+        "files": [
+            {
+                "relativePath": ".internal/baseIsEqualDeep.js",
+                "test": false,
+                "name": "baseIsEqualDeep.js"
+            }
+        ],
+        "mainFile": ".internal/baseIsEqualDeep.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-is-match": {
+        "files": [
+            {
+                "relativePath": ".internal/baseIsMatch.js",
+                "test": false,
+                "name": "baseIsMatch.js"
+            }
+        ],
+        "mainFile": ".internal/baseIsMatch.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-is-na-n": {
+        "files": [
+            {
+                "relativePath": ".internal/baseIsNaN.js",
+                "test": false,
+                "name": "baseIsNaN.js"
+            }
+        ],
+        "mainFile": ".internal/baseIsNaN.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-matches": {
+        "files": [
+            {
+                "relativePath": ".internal/baseMatches.js",
+                "test": false,
+                "name": "baseMatches.js"
+            }
+        ],
+        "mainFile": ".internal/baseMatches.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-matches-property": {
+        "files": [
+            {
+                "relativePath": ".internal/baseMatchesProperty.js",
+                "test": false,
+                "name": "baseMatchesProperty.js"
+            }
+        ],
+        "mainFile": ".internal/baseMatchesProperty.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-merge-deep": {
+        "files": [
+            {
+                "relativePath": ".internal/baseMergeDeep.js",
+                "test": false,
+                "name": "baseMergeDeep.js"
+            }
+        ],
+        "mainFile": ".internal/baseMergeDeep.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-pick": {
+        "files": [
+            {
+                "relativePath": ".internal/basePick.js",
+                "test": false,
+                "name": "basePick.js"
+            }
+        ],
+        "mainFile": ".internal/basePick.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-pick-by": {
+        "files": [
+            {
+                "relativePath": ".internal/basePickBy.js",
+                "test": false,
+                "name": "basePickBy.js"
+            }
+        ],
+        "mainFile": ".internal/basePickBy.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-property": {
+        "files": [
+            {
+                "relativePath": ".internal/baseProperty.js",
+                "test": false,
+                "name": "baseProperty.js"
+            }
+        ],
+        "mainFile": ".internal/baseProperty.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-property-deep": {
+        "files": [
+            {
+                "relativePath": ".internal/basePropertyDeep.js",
+                "test": false,
+                "name": "basePropertyDeep.js"
+            }
+        ],
+        "mainFile": ".internal/basePropertyDeep.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-property-of": {
+        "files": [
+            {
+                "relativePath": ".internal/basePropertyOf.js",
+                "test": false,
+                "name": "basePropertyOf.js"
+            }
+        ],
+        "mainFile": ".internal/basePropertyOf.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-pull-all": {
+        "files": [
+            {
+                "relativePath": ".internal/basePullAll.js",
+                "test": false,
+                "name": "basePullAll.js"
+            }
+        ],
+        "mainFile": ".internal/basePullAll.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-pull-at": {
+        "files": [
+            {
+                "relativePath": ".internal/basePullAt.js",
+                "test": false,
+                "name": "basePullAt.js"
+            }
+        ],
+        "mainFile": ".internal/basePullAt.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-range": {
+        "files": [
+            {
+                "relativePath": ".internal/baseRange.js",
+                "test": false,
+                "name": "baseRange.js"
+            }
+        ],
+        "mainFile": ".internal/baseRange.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-reduce": {
+        "files": [
+            {
+                "relativePath": ".internal/baseReduce.js",
+                "test": false,
+                "name": "baseReduce.js"
+            }
+        ],
+        "mainFile": ".internal/baseReduce.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-set": {
+        "files": [
+            {
+                "relativePath": ".internal/baseSet.js",
+                "test": false,
+                "name": "baseSet.js"
+            }
+        ],
+        "mainFile": ".internal/baseSet.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-sort-by": {
+        "files": [
+            {
+                "relativePath": ".internal/baseSortBy.js",
+                "test": false,
+                "name": "baseSortBy.js"
+            }
+        ],
+        "mainFile": ".internal/baseSortBy.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-sorted-index": {
+        "files": [
+            {
+                "relativePath": ".internal/baseSortedIndex.js",
+                "test": false,
+                "name": "baseSortedIndex.js"
+            }
+        ],
+        "mainFile": ".internal/baseSortedIndex.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-sorted-index-by": {
+        "files": [
+            {
+                "relativePath": ".internal/baseSortedIndexBy.js",
+                "test": false,
+                "name": "baseSortedIndexBy.js"
+            }
+        ],
+        "mainFile": ".internal/baseSortedIndexBy.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-sorted-uniq": {
+        "files": [
+            {
+                "relativePath": ".internal/baseSortedUniq.js",
+                "test": false,
+                "name": "baseSortedUniq.js"
+            }
+        ],
+        "mainFile": ".internal/baseSortedUniq.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-sum": {
+        "files": [
+            {
+                "relativePath": ".internal/baseSum.js",
+                "test": false,
+                "name": "baseSum.js"
+            }
+        ],
+        "mainFile": ".internal/baseSum.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-to-number": {
+        "files": [
+            {
+                "relativePath": ".internal/baseToNumber.js",
+                "test": false,
+                "name": "baseToNumber.js"
+            }
+        ],
+        "mainFile": ".internal/baseToNumber.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-to-string": {
+        "files": [
+            {
+                "relativePath": ".internal/baseToString.js",
+                "test": false,
+                "name": "baseToString.js"
+            }
+        ],
+        "mainFile": ".internal/baseToString.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-uniq": {
+        "files": [
+            {
+                "relativePath": ".internal/baseUniq.js",
+                "test": false,
+                "name": "baseUniq.js"
+            }
+        ],
+        "mainFile": ".internal/baseUniq.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-unset": {
+        "files": [
+            {
+                "relativePath": ".internal/baseUnset.js",
+                "test": false,
+                "name": "baseUnset.js"
+            }
+        ],
+        "mainFile": ".internal/baseUnset.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-update": {
+        "files": [
+            {
+                "relativePath": ".internal/baseUpdate.js",
+                "test": false,
+                "name": "baseUpdate.js"
+            }
+        ],
+        "mainFile": ".internal/baseUpdate.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-values": {
+        "files": [
+            {
+                "relativePath": ".internal/baseValues.js",
+                "test": false,
+                "name": "baseValues.js"
+            }
+        ],
+        "mainFile": ".internal/baseValues.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-while": {
+        "files": [
+            {
+                "relativePath": ".internal/baseWhile.js",
+                "test": false,
+                "name": "baseWhile.js"
+            }
+        ],
+        "mainFile": ".internal/baseWhile.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-xor": {
+        "files": [
+            {
+                "relativePath": ".internal/baseXor.js",
+                "test": false,
+                "name": "baseXor.js"
+            }
+        ],
+        "mainFile": ".internal/baseXor.js",
+        "origin": "AUTHORED"
+    },
+    "internal/base-zip-object": {
+        "files": [
+            {
+                "relativePath": ".internal/baseZipObject.js",
+                "test": false,
+                "name": "baseZipObject.js"
+            }
+        ],
+        "mainFile": ".internal/baseZipObject.js",
+        "origin": "AUTHORED"
+    },
+    "internal/cache-has": {
+        "files": [
+            {
+                "relativePath": ".internal/cacheHas.js",
+                "test": false,
+                "name": "cacheHas.js"
+            }
+        ],
+        "mainFile": ".internal/cacheHas.js",
+        "origin": "AUTHORED"
+    },
+    "internal/cast-array-like-object": {
+        "files": [
+            {
+                "relativePath": ".internal/castArrayLikeObject.js",
+                "test": false,
+                "name": "castArrayLikeObject.js"
+            }
+        ],
+        "mainFile": ".internal/castArrayLikeObject.js",
+        "origin": "AUTHORED"
+    },
+    "internal/cast-path": {
+        "files": [
+            {
+                "relativePath": ".internal/castPath.js",
+                "test": false,
+                "name": "castPath.js"
+            }
+        ],
+        "mainFile": ".internal/castPath.js",
+        "origin": "AUTHORED"
+    },
+    "internal/cast-slice": {
+        "files": [
+            {
+                "relativePath": ".internal/castSlice.js",
+                "test": false,
+                "name": "castSlice.js"
+            }
+        ],
+        "mainFile": ".internal/castSlice.js",
+        "origin": "AUTHORED"
+    },
+    "internal/chars-end-index": {
+        "files": [
+            {
+                "relativePath": ".internal/charsEndIndex.js",
+                "test": false,
+                "name": "charsEndIndex.js"
+            }
+        ],
+        "mainFile": ".internal/charsEndIndex.js",
+        "origin": "AUTHORED"
+    },
+    "internal/chars-start-index": {
+        "files": [
+            {
+                "relativePath": ".internal/charsStartIndex.js",
+                "test": false,
+                "name": "charsStartIndex.js"
+            }
+        ],
+        "mainFile": ".internal/charsStartIndex.js",
+        "origin": "AUTHORED"
+    },
+    "internal/clone-array-buffer": {
+        "files": [
+            {
+                "relativePath": ".internal/cloneArrayBuffer.js",
+                "test": false,
+                "name": "cloneArrayBuffer.js"
+            }
+        ],
+        "mainFile": ".internal/cloneArrayBuffer.js",
+        "origin": "AUTHORED"
+    },
+    "internal/clone-buffer": {
+        "files": [
+            {
+                "relativePath": ".internal/cloneBuffer.js",
+                "test": false,
+                "name": "cloneBuffer.js"
+            }
+        ],
+        "mainFile": ".internal/cloneBuffer.js",
+        "origin": "AUTHORED"
+    },
+    "internal/clone-data-view": {
+        "files": [
+            {
+                "relativePath": ".internal/cloneDataView.js",
+                "test": false,
+                "name": "cloneDataView.js"
+            }
+        ],
+        "mainFile": ".internal/cloneDataView.js",
+        "origin": "AUTHORED"
+    },
+    "internal/clone-reg-exp": {
+        "files": [
+            {
+                "relativePath": ".internal/cloneRegExp.js",
+                "test": false,
+                "name": "cloneRegExp.js"
+            }
+        ],
+        "mainFile": ".internal/cloneRegExp.js",
+        "origin": "AUTHORED"
+    },
+    "internal/clone-symbol": {
+        "files": [
+            {
+                "relativePath": ".internal/cloneSymbol.js",
+                "test": false,
+                "name": "cloneSymbol.js"
+            }
+        ],
+        "mainFile": ".internal/cloneSymbol.js",
+        "origin": "AUTHORED"
+    },
+    "internal/clone-typed-array": {
+        "files": [
+            {
+                "relativePath": ".internal/cloneTypedArray.js",
+                "test": false,
+                "name": "cloneTypedArray.js"
+            }
+        ],
+        "mainFile": ".internal/cloneTypedArray.js",
+        "origin": "AUTHORED"
+    },
+    "internal/compare-ascending": {
+        "files": [
+            {
+                "relativePath": ".internal/compareAscending.js",
+                "test": false,
+                "name": "compareAscending.js"
+            }
+        ],
+        "mainFile": ".internal/compareAscending.js",
+        "origin": "AUTHORED"
+    },
+    "internal/compare-multiple": {
+        "files": [
+            {
+                "relativePath": ".internal/compareMultiple.js",
+                "test": false,
+                "name": "compareMultiple.js"
+            }
+        ],
+        "mainFile": ".internal/compareMultiple.js",
+        "origin": "AUTHORED"
+    },
+    "internal/compose-args": {
+        "files": [
+            {
+                "relativePath": ".internal/composeArgs.js",
+                "test": false,
+                "name": "composeArgs.js"
+            }
+        ],
+        "mainFile": ".internal/composeArgs.js",
+        "origin": "AUTHORED"
+    },
+    "internal/compose-args-right": {
+        "files": [
+            {
+                "relativePath": ".internal/composeArgsRight.js",
+                "test": false,
+                "name": "composeArgsRight.js"
+            }
+        ],
+        "mainFile": ".internal/composeArgsRight.js",
+        "origin": "AUTHORED"
+    },
+    "internal/copy-array": {
+        "files": [
+            {
+                "relativePath": ".internal/copyArray.js",
+                "test": false,
+                "name": "copyArray.js"
+            }
+        ],
+        "mainFile": ".internal/copyArray.js",
+        "origin": "AUTHORED"
+    },
+    "internal/copy-object": {
+        "files": [
+            {
+                "relativePath": ".internal/copyObject.js",
+                "test": false,
+                "name": "copyObject.js"
+            }
+        ],
+        "mainFile": ".internal/copyObject.js",
+        "origin": "AUTHORED"
+    },
+    "internal/copy-symbols": {
+        "files": [
+            {
+                "relativePath": ".internal/copySymbols.js",
+                "test": false,
+                "name": "copySymbols.js"
+            }
+        ],
+        "mainFile": ".internal/copySymbols.js",
+        "origin": "AUTHORED"
+    },
+    "internal/copy-symbols-in": {
+        "files": [
+            {
+                "relativePath": ".internal/copySymbolsIn.js",
+                "test": false,
+                "name": "copySymbolsIn.js"
+            }
+        ],
+        "mainFile": ".internal/copySymbolsIn.js",
+        "origin": "AUTHORED"
+    },
+    "internal/create-case-first": {
+        "files": [
+            {
+                "relativePath": ".internal/createCaseFirst.js",
+                "test": false,
+                "name": "createCaseFirst.js"
+            }
+        ],
+        "mainFile": ".internal/createCaseFirst.js",
+        "origin": "AUTHORED"
+    },
+    "internal/create-math-operation": {
+        "files": [
+            {
+                "relativePath": ".internal/createMathOperation.js",
+                "test": false,
+                "name": "createMathOperation.js"
+            }
+        ],
+        "mainFile": ".internal/createMathOperation.js",
+        "origin": "AUTHORED"
+    },
+    "internal/create-padding": {
+        "files": [
+            {
+                "relativePath": ".internal/createPadding.js",
+                "test": false,
+                "name": "createPadding.js"
+            }
+        ],
+        "mainFile": ".internal/createPadding.js",
+        "origin": "AUTHORED"
+    },
+    "internal/create-range": {
+        "files": [
+            {
+                "relativePath": ".internal/createRange.js",
+                "test": false,
+                "name": "createRange.js"
+            }
+        ],
+        "mainFile": ".internal/createRange.js",
+        "origin": "AUTHORED"
+    },
+    "internal/create-round": {
+        "files": [
+            {
+                "relativePath": ".internal/createRound.js",
+                "test": false,
+                "name": "createRound.js"
+            }
+        ],
+        "mainFile": ".internal/createRound.js",
+        "origin": "AUTHORED"
+    },
+    "internal/create-set": {
+        "files": [
+            {
+                "relativePath": ".internal/createSet.js",
+                "test": false,
+                "name": "createSet.js"
+            }
+        ],
+        "mainFile": ".internal/createSet.js",
+        "origin": "AUTHORED"
+    },
+    "internal/deburr-letter": {
+        "files": [
+            {
+                "relativePath": ".internal/deburrLetter.js",
+                "test": false,
+                "name": "deburrLetter.js"
+            }
+        ],
+        "mainFile": ".internal/deburrLetter.js",
+        "origin": "AUTHORED"
+    },
+    "internal/equal-arrays": {
+        "files": [
+            {
+                "relativePath": ".internal/equalArrays.js",
+                "test": false,
+                "name": "equalArrays.js"
+            }
+        ],
+        "mainFile": ".internal/equalArrays.js",
+        "origin": "AUTHORED"
+    },
+    "internal/equal-by-tag": {
+        "files": [
+            {
+                "relativePath": ".internal/equalByTag.js",
+                "test": false,
+                "name": "equalByTag.js"
+            }
+        ],
+        "mainFile": ".internal/equalByTag.js",
+        "origin": "AUTHORED"
+    },
+    "internal/equal-objects": {
+        "files": [
+            {
+                "relativePath": ".internal/equalObjects.js",
+                "test": false,
+                "name": "equalObjects.js"
+            }
+        ],
+        "mainFile": ".internal/equalObjects.js",
+        "origin": "AUTHORED"
+    },
+    "internal/free-global": {
+        "files": [
+            {
+                "relativePath": ".internal/freeGlobal.js",
+                "test": false,
+                "name": "freeGlobal.js"
+            }
+        ],
+        "mainFile": ".internal/freeGlobal.js",
+        "origin": "AUTHORED"
+    },
+    "internal/get-all-keys": {
+        "files": [
+            {
+                "relativePath": ".internal/getAllKeys.js",
+                "test": false,
+                "name": "getAllKeys.js"
+            }
+        ],
+        "mainFile": ".internal/getAllKeys.js",
+        "origin": "AUTHORED"
+    },
+    "internal/get-all-keys-in": {
+        "files": [
+            {
+                "relativePath": ".internal/getAllKeysIn.js",
+                "test": false,
+                "name": "getAllKeysIn.js"
+            }
+        ],
+        "mainFile": ".internal/getAllKeysIn.js",
+        "origin": "AUTHORED"
+    },
+    "internal/get-holder": {
+        "files": [
+            {
+                "relativePath": ".internal/getHolder.js",
+                "test": false,
+                "name": "getHolder.js"
+            }
+        ],
+        "mainFile": ".internal/getHolder.js",
+        "origin": "AUTHORED"
+    },
+    "internal/get-match-data": {
+        "files": [
+            {
+                "relativePath": ".internal/getMatchData.js",
+                "test": false,
+                "name": "getMatchData.js"
+            }
+        ],
+        "mainFile": ".internal/getMatchData.js",
+        "origin": "AUTHORED"
+    },
+    "internal/get-symbols": {
+        "files": [
+            {
+                "relativePath": ".internal/getSymbols.js",
+                "test": false,
+                "name": "getSymbols.js"
+            }
+        ],
+        "mainFile": ".internal/getSymbols.js",
+        "origin": "AUTHORED"
+    },
+    "internal/get-symbols-in": {
+        "files": [
+            {
+                "relativePath": ".internal/getSymbolsIn.js",
+                "test": false,
+                "name": "getSymbolsIn.js"
+            }
+        ],
+        "mainFile": ".internal/getSymbolsIn.js",
+        "origin": "AUTHORED"
+    },
+    "internal/get-tag": {
+        "files": [
+            {
+                "relativePath": ".internal/getTag.js",
+                "test": false,
+                "name": "getTag.js"
+            }
+        ],
+        "mainFile": ".internal/getTag.js",
+        "origin": "AUTHORED"
+    },
+    "internal/has-unicode": {
+        "files": [
+            {
+                "relativePath": ".internal/hasUnicode.js",
+                "test": false,
+                "name": "hasUnicode.js"
+            }
+        ],
+        "mainFile": ".internal/hasUnicode.js",
+        "origin": "AUTHORED"
+    },
+    "internal/init-clone-object": {
+        "files": [
+            {
+                "relativePath": ".internal/initCloneObject.js",
+                "test": false,
+                "name": "initCloneObject.js"
+            }
+        ],
+        "mainFile": ".internal/initCloneObject.js",
+        "origin": "AUTHORED"
+    },
+    "internal/is-flattenable": {
+        "files": [
+            {
+                "relativePath": ".internal/isFlattenable.js",
+                "test": false,
+                "name": "isFlattenable.js"
+            }
+        ],
+        "mainFile": ".internal/isFlattenable.js",
+        "origin": "AUTHORED"
+    },
+    "internal/is-index": {
+        "files": [
+            {
+                "relativePath": ".internal/isIndex.js",
+                "test": false,
+                "name": "isIndex.js"
+            }
+        ],
+        "mainFile": ".internal/isIndex.js",
+        "origin": "AUTHORED"
+    },
+    "internal/is-key": {
+        "files": [
+            {
+                "relativePath": ".internal/isKey.js",
+                "test": false,
+                "name": "isKey.js"
+            }
+        ],
+        "mainFile": ".internal/isKey.js",
+        "origin": "AUTHORED"
+    },
+    "internal/is-prototype": {
+        "files": [
+            {
+                "relativePath": ".internal/isPrototype.js",
+                "test": false,
+                "name": "isPrototype.js"
+            }
+        ],
+        "mainFile": ".internal/isPrototype.js",
+        "origin": "AUTHORED"
+    },
+    "internal/is-strict-comparable": {
+        "files": [
+            {
+                "relativePath": ".internal/isStrictComparable.js",
+                "test": false,
+                "name": "isStrictComparable.js"
+            }
+        ],
+        "mainFile": ".internal/isStrictComparable.js",
+        "origin": "AUTHORED"
+    },
+    "internal/iterator-to-array": {
+        "files": [
+            {
+                "relativePath": ".internal/iteratorToArray.js",
+                "test": false,
+                "name": "iteratorToArray.js"
+            }
+        ],
+        "mainFile": ".internal/iteratorToArray.js",
+        "origin": "AUTHORED"
+    },
+    "internal/map-to-array": {
+        "files": [
+            {
+                "relativePath": ".internal/mapToArray.js",
+                "test": false,
+                "name": "mapToArray.js"
+            }
+        ],
+        "mainFile": ".internal/mapToArray.js",
+        "origin": "AUTHORED"
+    },
+    "internal/matches-strict-comparable": {
+        "files": [
+            {
+                "relativePath": ".internal/matchesStrictComparable.js",
+                "test": false,
+                "name": "matchesStrictComparable.js"
+            }
+        ],
+        "mainFile": ".internal/matchesStrictComparable.js",
+        "origin": "AUTHORED"
+    },
+    "internal/memoize-capped": {
+        "files": [
+            {
+                "relativePath": ".internal/memoizeCapped.js",
+                "test": false,
+                "name": "memoizeCapped.js"
+            }
+        ],
+        "mainFile": ".internal/memoizeCapped.js",
+        "origin": "AUTHORED"
+    },
+    "internal/meta-map": {
+        "files": [
+            {
+                "relativePath": ".internal/metaMap.js",
+                "test": false,
+                "name": "metaMap.js"
+            }
+        ],
+        "mainFile": ".internal/metaMap.js",
+        "origin": "AUTHORED"
+    },
+    "internal/node-util": {
+        "files": [
+            {
+                "relativePath": ".internal/nodeUtil.js",
+                "test": false,
+                "name": "nodeUtil.js"
+            }
+        ],
+        "mainFile": ".internal/nodeUtil.js",
+        "origin": "AUTHORED"
+    },
+    "internal/parent": {
+        "files": [
+            {
+                "relativePath": ".internal/parent.js",
+                "test": false,
+                "name": "parent.js"
+            }
+        ],
+        "mainFile": ".internal/parent.js",
+        "origin": "AUTHORED"
+    },
+    "internal/re-escape": {
+        "files": [
+            {
+                "relativePath": ".internal/reEscape.js",
+                "test": false,
+                "name": "reEscape.js"
+            }
+        ],
+        "mainFile": ".internal/reEscape.js",
+        "origin": "AUTHORED"
+    },
+    "internal/re-evaluate": {
+        "files": [
+            {
+                "relativePath": ".internal/reEvaluate.js",
+                "test": false,
+                "name": "reEvaluate.js"
+            }
+        ],
+        "mainFile": ".internal/reEvaluate.js",
+        "origin": "AUTHORED"
+    },
+    "internal/re-interpolate": {
+        "files": [
+            {
+                "relativePath": ".internal/reInterpolate.js",
+                "test": false,
+                "name": "reInterpolate.js"
+            }
+        ],
+        "mainFile": ".internal/reInterpolate.js",
+        "origin": "AUTHORED"
+    },
+    "internal/root": {
+        "files": [
+            {
+                "relativePath": ".internal/root.js",
+                "test": false,
+                "name": "root.js"
+            }
+        ],
+        "mainFile": ".internal/root.js",
+        "origin": "AUTHORED"
+    },
+    "internal/set-to-array": {
+        "files": [
+            {
+                "relativePath": ".internal/setToArray.js",
+                "test": false,
+                "name": "setToArray.js"
+            }
+        ],
+        "mainFile": ".internal/setToArray.js",
+        "origin": "AUTHORED"
+    },
+    "internal/set-to-pairs": {
+        "files": [
+            {
+                "relativePath": ".internal/setToPairs.js",
+                "test": false,
+                "name": "setToPairs.js"
+            }
+        ],
+        "mainFile": ".internal/setToPairs.js",
+        "origin": "AUTHORED"
+    },
+    "internal/set-to-string": {
+        "files": [
+            {
+                "relativePath": ".internal/setToString.js",
+                "test": false,
+                "name": "setToString.js"
+            }
+        ],
+        "mainFile": ".internal/setToString.js",
+        "origin": "AUTHORED"
+    },
+    "internal/strict-index-of": {
+        "files": [
+            {
+                "relativePath": ".internal/strictIndexOf.js",
+                "test": false,
+                "name": "strictIndexOf.js"
+            }
+        ],
+        "mainFile": ".internal/strictIndexOf.js",
+        "origin": "AUTHORED"
+    },
+    "internal/strict-last-index-of": {
+        "files": [
+            {
+                "relativePath": ".internal/strictLastIndexOf.js",
+                "test": false,
+                "name": "strictLastIndexOf.js"
+            }
+        ],
+        "mainFile": ".internal/strictLastIndexOf.js",
+        "origin": "AUTHORED"
+    },
+    "internal/string-size": {
+        "files": [
+            {
+                "relativePath": ".internal/stringSize.js",
+                "test": false,
+                "name": "stringSize.js"
+            }
+        ],
+        "mainFile": ".internal/stringSize.js",
+        "origin": "AUTHORED"
+    },
+    "internal/string-to-array": {
+        "files": [
+            {
+                "relativePath": ".internal/stringToArray.js",
+                "test": false,
+                "name": "stringToArray.js"
+            }
+        ],
+        "mainFile": ".internal/stringToArray.js",
+        "origin": "AUTHORED"
+    },
+    "internal/string-to-path": {
+        "files": [
+            {
+                "relativePath": ".internal/stringToPath.js",
+                "test": false,
+                "name": "stringToPath.js"
+            }
+        ],
+        "mainFile": ".internal/stringToPath.js",
+        "origin": "AUTHORED"
+    },
+    "internal/to-key": {
+        "files": [
+            {
+                "relativePath": ".internal/toKey.js",
+                "test": false,
+                "name": "toKey.js"
+            }
+        ],
+        "mainFile": ".internal/toKey.js",
+        "origin": "AUTHORED"
+    },
+    "internal/unicode-size": {
+        "files": [
+            {
+                "relativePath": ".internal/unicodeSize.js",
+                "test": false,
+                "name": "unicodeSize.js"
+            }
+        ],
+        "mainFile": ".internal/unicodeSize.js",
+        "origin": "AUTHORED"
+    },
+    "internal/unicode-to-array": {
+        "files": [
+            {
+                "relativePath": ".internal/unicodeToArray.js",
+                "test": false,
+                "name": "unicodeToArray.js"
+            }
+        ],
+        "mainFile": ".internal/unicodeToArray.js",
+        "origin": "AUTHORED"
+    },
+    "internal/unicode-words": {
+        "files": [
+            {
+                "relativePath": ".internal/unicodeWords.js",
+                "test": false,
+                "name": "unicodeWords.js"
+            }
+        ],
+        "mainFile": ".internal/unicodeWords.js",
+        "origin": "AUTHORED"
     }
 }
