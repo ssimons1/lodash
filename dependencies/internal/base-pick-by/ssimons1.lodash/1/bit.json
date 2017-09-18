@@ -1,0 +1,12 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/base-get": "1",
+        "ssimons1.lodash/internal/base-set": "1",
+        "ssimons1.lodash/internal/cast-path": "1"
+    },
+    "packageDependencies": {}
+}

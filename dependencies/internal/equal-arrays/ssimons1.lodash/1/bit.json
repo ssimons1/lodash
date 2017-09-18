@@ -1,0 +1,12 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/set-cache": "1",
+        "ssimons1.lodash/internal/cache-has": "1",
+        "ssimons1.lodash/component/some": "1"
+    },
+    "packageDependencies": {}
+}

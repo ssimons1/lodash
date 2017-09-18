@@ -1,0 +1,13 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/base-index-of": "1",
+        "ssimons1.lodash/internal/base-index-of-with": "1",
+        "ssimons1.lodash/internal/copy-array": "1",
+        "ssimons1.lodash/component/map": "1"
+    },
+    "packageDependencies": {}
+}

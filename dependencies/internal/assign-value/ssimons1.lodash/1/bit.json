@@ -1,0 +1,11 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/base-assign-value": "1",
+        "ssimons1.lodash/component/eq": "1"
+    },
+    "packageDependencies": {}
+}

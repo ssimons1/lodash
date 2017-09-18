@@ -1,0 +1,11 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/base-for-own-right": "1",
+        "ssimons1.lodash/component/is-array-like": "1"
+    },
+    "packageDependencies": {}
+}

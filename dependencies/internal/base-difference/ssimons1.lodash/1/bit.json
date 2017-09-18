@@ -1,0 +1,14 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/set-cache": "1",
+        "ssimons1.lodash/internal/array-includes": "1",
+        "ssimons1.lodash/internal/array-includes-with": "1",
+        "ssimons1.lodash/internal/cache-has": "1",
+        "ssimons1.lodash/component/map": "1"
+    },
+    "packageDependencies": {}
+}

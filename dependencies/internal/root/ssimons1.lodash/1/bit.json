@@ -1,0 +1,10 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/free-global": "1"
+    },
+    "packageDependencies": {}
+}

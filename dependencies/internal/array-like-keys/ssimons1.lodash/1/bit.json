@@ -1,0 +1,13 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/is-index": "1",
+        "ssimons1.lodash/component/is-arguments": "1",
+        "ssimons1.lodash/component/is-buffer": "1",
+        "ssimons1.lodash/component/is-typed-array": "1"
+    },
+    "packageDependencies": {}
+}

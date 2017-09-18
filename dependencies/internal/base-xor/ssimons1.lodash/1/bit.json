@@ -1,0 +1,12 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/base-difference": "1",
+        "ssimons1.lodash/internal/base-flatten": "1",
+        "ssimons1.lodash/internal/base-uniq": "1"
+    },
+    "packageDependencies": {}
+}

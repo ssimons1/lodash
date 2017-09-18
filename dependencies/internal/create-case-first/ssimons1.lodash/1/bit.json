@@ -1,0 +1,12 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "ssimons1.lodash/internal/cast-slice": "1",
+        "ssimons1.lodash/internal/has-unicode": "1",
+        "ssimons1.lodash/internal/string-to-array": "1"
+    },
+    "packageDependencies": {}
+}
