@@ -1882,17 +1882,6 @@
         "mainFile": "size.js",
         "origin": "AUTHORED"
     },
-    "component/slice": {
-        "files": [
-            {
-                "relativePath": "slice.js",
-                "test": false,
-                "name": "slice.js"
-            }
-        ],
-        "mainFile": "slice.js",
-        "origin": "AUTHORED"
-    },
     "component/snake-case": {
         "files": [
             {
@@ -4113,6 +4102,17 @@
             }
         ],
         "mainFile": ".internal/unicodeWords.js",
+        "origin": "AUTHORED"
+    },
+    "ssimons1.lodash/component/slice@1": {
+        "files": [
+            {
+                "relativePath": "slice.js",
+                "test": false,
+                "name": "slice.js"
+            }
+        ],
+        "mainFile": "slice.js",
         "origin": "AUTHORED"
     }
 }
